@@ -1,0 +1,32 @@
+<total>
+  <recuentoMesas>
+    <distrito>NACIONAL</distrito>
+    <nivel>0</nivel>
+    <mesasEsperadas>104529</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>BUENOS AIRES</distrito>
+    <nivel>1</nivel>
+    <mesasEsperadas>38074</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>CATAMARCA</distrito>
+    <nivel>1</nivel>
+    <mesasEsperadas>1058</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>CIUDAD AUTONOMA DE BUENOS AIRES</distrito>
+    <nivel>1</nivel>
+    <mesasEsperadas>7326</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>SANTA CRUZ</distrito>
+    <nivel>1</nivel>
+    <mesasEsperadas>911</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+</total>

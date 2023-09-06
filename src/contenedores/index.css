@@ -1,0 +1,111 @@
+.tabla-votos{
+    width: 1000px;
+}
+.botones{
+    display: flex;
+    flex-direction: column;
+    margin:1rem;
+    gap:1rem
+}
+
+.footer-blue{
+    display: flex;
+   justify-content: space-between;
+    background-color:#33bbed;
+    padding: 2rem;
+  }
+
+  .contenedor-indicadores{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin:2rem
+  }
+
+
+
+  /* Estilos para el cambio de color verde */
+.carta-indicador.cambio-verde {
+  background-color: lightgreen;
+}
+
+/* Estilos para el cambio de color rojo */
+.carta-indicador.cambio-rojo {
+  background-color: lightcoral;
+}
+
+/* Estilos para el cambio de color gris */
+.carta-indicador.cambio-gris {
+  background-color: lightgray;
+}
+
+/* Define la transición */
+.transicion-tarjeta-enter {
+  opacity: 0;
+  transform: translateX(-100%);
+}
+.transicion-tarjeta-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 300ms, transform 300ms;
+}
+.transicion-tarjeta-exit {
+  opacity: 1;
+}
+.transicion-tarjeta-exit-active {
+  opacity: 0;
+  transform: translateX(100%);
+  transition: opacity 300ms, transform 300ms;
+}
+
+.carta-indicador{
+    width: 20%;
+}
+  
+.imgele{
+    width: 10%;
+}
+
+.imgele2{
+    width: 30%;
+}
+
+.menu-landing{
+    display: flex;
+    flex-direction: column;
+    width: 21%;
+    background-image: linear-gradient(to bottom, rgba(52, 188, 237, 1), #1F8BD2);
+
+}
+
+.imgele3{
+    width: 40%;
+    padding: 1rem;
+}
+
+.imgele4{
+    width: 100%;
+    padding-top: 10rem;
+}
+
+.boton-antd{
+    background-color:#33bbed;
+}
+
+.menu-background {
+    background: rgba(52, 188, 237, 1)
+  }
+
+@media (max-width: 1200px) {
+    .tabla-votos{
+        width: 400px;
+    }
+    .menu-landing{
+        display: none;
+  
+    }
+
+    .footer-blue{
+    width: 79%;
+    }
+}

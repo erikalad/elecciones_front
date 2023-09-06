@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: center;
+  font-family: 'Bebas Neue', sans-serif;
+  background-image: url('./argentina.jpg');
+  background-size: cover; /* Ajustar el tamaño de la imagen para cubrir todo el fondo */
+  background-repeat: no-repeat; /* Evitar que la imagen se repita en el fondo */
+  background-position: center; /* Centrar la imagen en el fondo */
+  min-height: 800px;
+  
+}
+
+@media (max-width:1200px) {
+
+ 
+ 
+ }

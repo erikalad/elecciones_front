@@ -1,0 +1,98 @@
+<total>
+  <recuentoMesas>
+    <distrito>NACIONAL</distrito>
+    <nivel>0</nivel>
+    <mesasEsperadas>104532</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>BUENOS AIRES</distrito>
+    <nivel>1</nivel>
+    <mesasEsperadas>38074</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>CATAMARCA</distrito>
+    <nivel>1</nivel>
+    <mesasEsperadas>1058</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>CABA</distrito>
+    <nivel>1</nivel>
+    <mesasEsperadas>7326</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>CORDOBA</distrito>
+    <nivel>1</nivel>
+    <mesasEsperadas>9097</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>SANTA CRUZ</distrito>
+    <nivel>1</nivel>
+    <mesasEsperadas>911</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>SANTA FE</distrito>
+    <nivel>1</nivel>
+    <mesasEsperadas>8332</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>LA PLATA</distrito>
+    <nivel>2</nivel>
+    <mesasEsperadas>1805</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>LA MATANZA</distrito>
+    <nivel>2</nivel>
+    <mesasEsperadas>3274</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>MAR DEL PLATA</distrito>
+    <nivel>2</nivel>
+    <mesasEsperadas>1690</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>SAN MARTÍN</distrito>
+    <nivel>2</nivel>
+    <mesasEsperadas>1111</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>HURLINGHAM</distrito>
+    <nivel>2</nivel>
+    <mesasEsperadas>481</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>LANÚS</distrito>
+    <nivel>2</nivel>
+    <mesasEsperadas>1143</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>MORENO</distrito>
+    <nivel>2</nivel>
+    <mesasEsperadas>1131</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>TIGRE</distrito>
+    <nivel>2</nivel>
+    <mesasEsperadas>998</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+  <recuentoMesas>
+    <distrito>TRES DE FEBRERO</distrito>
+    <nivel>2</nivel>
+    <mesasEsperadas>880</mesasEsperadas>
+    <mesasTotalizadas>0</mesasTotalizadas>
+  </recuentoMesas>
+</total>

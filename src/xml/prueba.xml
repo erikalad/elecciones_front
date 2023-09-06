@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <total>
+         <valoresTotalizados>
+             <cargo>LEGISLADORES</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Surrealistas </nombreAgrupacion>
+             <sigla>SU</sigla>
+             <votos>186312</votos>
+             <listas>
+                 <apellidoCandidato>Poli, Martín</apellidoCandidato>
+                 <votosLista>186312</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>LEGISLADORES</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Partido Solidario</nombreAgrupacion>
+             <sigla>PS</sigla>
+             <votos>90731</votos>
+             <listas>
+                 <apellidoCandidato>Alor, Lidia</apellidoCandidato>
+                 <votosLista>90731</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>LEGISLADORES</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Los Niños Primero</nombreAgrupacion>
+             <sigla>LNP</sigla>
+             <votos>48107</votos>
+             <listas>
+                 <apellidoCandidato>Matamala, Benito</apellidoCandidato>
+                 <votosLista>48107</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>LEGISLADORES</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Movimiento Vecinos Unidos</nombreAgrupacion>
+             <sigla>MVUM</sigla>
+             <votos>23212</votos>
+             <listas>
+                 <apellidoCandidato>Brocos, Juan Manuel</apellidoCandidato>
+                 <votosLista>23212</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>LEGISLADORES</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Ecuación Justa</nombreAgrupacion>
+             <sigla>EJ</sigla>
+             <votos>11560</votos>
+             <listas>
+                 <apellidoCandidato>Esbert, María Asunción</apellidoCandidato>
+                 <votosLista>11560</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>LEGISLADORES</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Partido de la Reivindicación Popular</nombreAgrupacion>
+             <sigla>PRP</sigla>
+             <votos>10652</votos>
+             <listas>
+                 <apellidoCandidato>Señaris, Purificación</apellidoCandidato>
+                 <votosLista>5326</votosLista>
+             </listas>
+             <listas>
+                 <apellidoCandidato>Fontao, María Carmen</apellidoCandidato>
+                 <votosLista>5326</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>LEGISLADORES</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Partido de la Reivindicación Popular</nombreAgrupacion>
+             <sigla>PRP</sigla>
+             <votos>5858</votos>
+             <listas>
+                 <apellidoCandidato>Señaris, Purificación</apellidoCandidato>
+                 <votosLista>2929</votosLista>
+             </listas>
+             <listas>
+                 <apellidoCandidato>Fontao, María Carmen</apellidoCandidato>
+                 <votosLista>2929</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>LEGISLADORES</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Partido Artistas Plásticos</nombreAgrupacion>
+             <sigla>PAP</sigla>
+             <votos>3292</votos>
+             <listas>
+                 <apellidoCandidato>Marquilles, Marcelino</apellidoCandidato>
+                 <votosLista>1646</votosLista>
+             </listas>
+             <listas>
+                 <apellidoCandidato>Akbar, Marina</apellidoCandidato>
+                 <votosLista>1646</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>LEGISLADORES</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Partido Artistas Plásticos</nombreAgrupacion>
+             <sigla>PAP</sigla>
+             <votos>2490</votos>
+             <listas>
+                 <apellidoCandidato>Marquilles, Marcelino</apellidoCandidato>
+                 <votosLista>1245</votosLista>
+             </listas>
+             <listas>
+                 <apellidoCandidato>Akbar, Marina</apellidoCandidato>
+                 <votosLista>1245</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>LEGISLADORES</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Campeones Unidos</nombreAgrupacion>
+             <sigla>CU</sigla>
+             <votos>1003</votos>
+             <listas>
+                 <apellidoCandidato>Zarca, María José</apellidoCandidato>
+                 <votosLista>1003</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>LEGISLADORES</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Golfistas Unidos</nombreAgrupacion>
+             <sigla>GU</sigla>
+             <votos>939</votos>
+             <listas>
+                 <apellidoCandidato>Cantero, Mónica</apellidoCandidato>
+                 <votosLista>939</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>LEGISLADORES</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Partido de los Compositores</nombreAgrupacion>
+             <sigla>PC</sigla>
+             <votos>908</votos>
+             <listas>
+                 <apellidoCandidato>Oyanguren, Arturo</apellidoCandidato>
+                 <votosLista>908</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>LEGISLADORES</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Horizonte Nuevo</nombreAgrupacion>
+             <sigla>HN</sigla>
+             <votos>901</votos>
+             <listas>
+                 <apellidoCandidato>Benarroch, Olga</apellidoCandidato>
+                 <votosLista>901</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>LEGISLADORES</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Messi Traeme la Copa</nombreAgrupacion>
+             <sigla>MTC</sigla>
+             <votos>901</votos>
+             <listas>
+                 <apellidoCandidato>Sanclemente, Héctor</apellidoCandidato>
+                 <votosLista>901</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>JEFE DE GOBIERNO</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Surrealistas </nombreAgrupacion>
+             <sigla>SU</sigla>
+             <votos>186312</votos>
+             <listas>
+                 <apellidoCandidato>Poli, Martín</apellidoCandidato>
+                 <votosLista>186312</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>JEFE DE GOBIERNO</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Partido Solidario</nombreAgrupacion>
+             <sigla>PS</sigla>
+             <votos>90731</votos>
+             <listas>
+                 <apellidoCandidato>Alor, Lidia</apellidoCandidato>
+                 <votosLista>90731</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>JEFE DE GOBIERNO</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Los Niños Primero</nombreAgrupacion>
+             <sigla>LNP</sigla>
+             <votos>48107</votos>
+             <listas>
+                 <apellidoCandidato>Matamala, Benito</apellidoCandidato>
+                 <votosLista>48107</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>JEFE DE GOBIERNO</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Ecuación Justa</nombreAgrupacion>
+             <sigla>EJ</sigla>
+             <votos>23212</votos>
+             <listas>
+                 <apellidoCandidato>Esbert, María Asunción</apellidoCandidato>
+                 <votosLista>23212</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>JEFE DE GOBIERNO</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Partido de la Reivindicación Popular</nombreAgrupacion>
+             <sigla>PRP</sigla>
+             <votos>23120</votos>
+             <listas>
+                 <apellidoCandidato>Señaris, Purificación</apellidoCandidato>
+                 <votosLista>11560</votosLista>
+             </listas>
+             <listas>
+                 <apellidoCandidato>Fontao, María Carmen</apellidoCandidato>
+                 <votosLista>11560</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>JEFE DE GOBIERNO</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Partido de la Reivindicación Popular</nombreAgrupacion>
+             <sigla>PRP</sigla>
+             <votos>10652</votos>
+             <listas>
+                 <apellidoCandidato>Señaris, Purificación</apellidoCandidato>
+                 <votosLista>5326</votosLista>
+             </listas>
+             <listas>
+                 <apellidoCandidato>Fontao, María Carmen</apellidoCandidato>
+                 <votosLista>5326</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>JEFE DE GOBIERNO</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Partido Artistas Plásticos</nombreAgrupacion>
+             <sigla>PAP</sigla>
+             <votos>5858</votos>
+             <listas>
+                 <apellidoCandidato>Marquilles, Marcelino</apellidoCandidato>
+                 <votosLista>2929</votosLista>
+             </listas>
+             <listas>
+                 <apellidoCandidato>Akbar, Marina</apellidoCandidato>
+                 <votosLista>2929</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>JEFE DE GOBIERNO</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Partido  Artistas Plásticos</nombreAgrupacion>
+             <sigla>PAP</sigla>
+             <votos>3292</votos>
+             <listas>
+                 <apellidoCandidato>Marquilles, Marcelino</apellidoCandidato>
+                 <votosLista>1646</votosLista>
+             </listas>
+             <listas>
+                 <apellidoCandidato>Akbar, Marina</apellidoCandidato>
+                 <votosLista>1646</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>JEFE DE GOBIERNO</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Campeones Unidos</nombreAgrupacion>
+             <sigla>CU</sigla>
+             <votos>1245</votos>
+             <listas>
+                 <apellidoCandidato>Zarca, María José</apellidoCandidato>
+                 <votosLista>1245</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>JEFE DE GOBIERNO</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Golfistas Unidos</nombreAgrupacion>
+             <sigla>GU</sigla>
+             <votos>1003</votos>
+             <listas>
+                 <apellidoCandidato>Cantero, Mónica</apellidoCandidato>
+                 <votosLista>1003</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>JEFE DE GOBIERNO</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Partido de los Compositores</nombreAgrupacion>
+             <sigla>PC</sigla>
+             <votos>939</votos>
+             <listas>
+                 <apellidoCandidato>Oyanguren, Arturo</apellidoCandidato>
+                 <votosLista>939</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>JEFE DE GOBIERNO</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Horizonte Nuevo</nombreAgrupacion>
+             <sigla>HN</sigla>
+             <votos>908</votos>
+             <listas>
+                 <apellidoCandidato>Benarroch, Olga</apellidoCandidato>
+                 <votosLista>908</votosLista>
+             </listas>
+         </valoresTotalizados>
+         <valoresTotalizados>
+             <cargo>JEFE DE GOBIERNO</cargo>
+             <distrito>CABA</distrito>
+             <nombreAgrupacion>Messi Traeme la Copa</nombreAgrupacion>
+             <sigla>MTC</sigla>
+             <votos>901</votos>
+             <listas>
+                 <apellidoCandidato>Sanclemente, Héctor</apellidoCandidato>
+                 <votosLista>901</votosLista>
+             </listas>
+         </valoresTotalizados>
+     </total>
+ </root>
