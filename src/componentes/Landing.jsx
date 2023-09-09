@@ -166,12 +166,12 @@ const progres3= ((totalMesasTotalizadasNacional / totalMesasEsperadasNacional) *
      
      <div className='switch'>
   
-          <Button onClick={handleIniciarCiclo} style={{marginRight:"1rem"}}>
+          {/* <Button onClick={handleIniciarCiclo} style={{marginRight:"1rem"}}>
             Iniciar
           </Button>
           <Button onClick={handleDetenerCiclo}>
             Detener
-          </Button>
+          </Button> */}
   
     </div>
   
